@@ -1,0 +1,404 @@
+{
+  "hoteles": [
+    {
+      "id": 1,
+      "nombre": "Hotel Costa Azul",
+      "ciudad": "Barcelona",
+      "disponibilidad": {"desde": "2025-04-01", "hasta": "2025-10-30"},
+      "personasPorHabitacion": 2,
+      "precioPorPersona": 95
+    },
+    {
+      "id": 2,
+      "nombre": "Hotel Sierra Centro",
+      "ciudad": "Madrid",
+      "disponibilidad": {"desde": "2025-01-15", "hasta": "2025-12-15"},
+      "personasPorHabitacion": 3,
+      "precioPorPersona": 70
+    },
+    {
+      "id": 3,
+      "nombre": "Hotel Mediterráneo",
+      "ciudad": "Valencia",
+      "disponibilidad": {"desde": "2025-03-01", "hasta": "2025-11-20"},
+      "personasPorHabitacion": 2,
+      "precioPorPersona": 85
+    },
+    {
+      "id": 4,
+      "nombre": "Hotel Nevado",
+      "ciudad": "Granada",
+      "disponibilidad": {"desde": "2025-06-01", "hasta": "2025-09-30"},
+      "personasPorHabitacion": 4,
+      "precioPorPersona": 110
+    },
+    {
+      "id": 5,
+      "nombre": "Hotel Plaza Central",
+      "ciudad": "Sevilla",
+      "disponibilidad": {"desde": "2025-02-10", "hasta": "2025-11-30"},
+      "personasPorHabitacion": 2,
+      "precioPorPersona": 90
+    },
+    {
+      "id": 6,
+      "nombre": "Hotel Marbella Sunset",
+      "ciudad": "Marbella",
+      "disponibilidad": {"desde": "2025-03-15", "hasta": "2025-10-31"},
+      "personasPorHabitacion": 2,
+      "precioPorPersona": 180
+    },
+    {
+      "id": 7,
+      "nombre": "Hotel Costa del Sol",
+      "ciudad": "Málaga",
+      "disponibilidad": {"desde": "2025-01-20", "hasta": "2025-12-10"},
+      "personasPorHabitacion": 3,
+      "precioPorPersona": 95
+    },
+    {
+      "id": 8,
+      "nombre": "Hotel Centro Histórico",
+      "ciudad": "Málaga",
+      "disponibilidad": {"desde": "2025-02-01", "hasta": "2025-11-15"},
+      "personasPorHabitacion": 1,
+      "precioPorPersona": 75
+    },
+    {
+      "id": 9,
+      "nombre": "Hotel Atlántico",
+      "ciudad": "Lisboa",
+      "disponibilidad": {"desde": "2025-04-01", "hasta": "2025-09-20"},
+      "personasPorHabitacion": 2,
+      "precioPorPersona": 120
+    },
+    {
+      "id": 10,
+      "nombre": "Hotel Pirineos",
+      "ciudad": "Andorra",
+      "disponibilidad": {"desde": "2025-01-05", "hasta": "2025-08-30"},
+      "personasPorHabitacion": 4,
+      "precioPorPersona": 105
+    },
+    {
+      "id": 11,
+      "nombre": "Hotel Costa Marina",
+      "ciudad": "Barcelona",
+      "disponibilidad": {"desde": "2025-05-01", "hasta": "2025-11-30"},
+      "personasPorHabitacion": 2,
+      "precioPorPersona": 100
+    },
+    {
+      "id": 12,
+      "nombre": "Hotel Gran Vía",
+      "ciudad": "Madrid",
+      "disponibilidad": {"desde": "2025-02-01", "hasta": "2025-12-20"},
+      "personasPorHabitacion": 2,
+      "precioPorPersona": 80
+    },
+    {
+      "id": 13,
+      "nombre": "Hotel Valencia Centro",
+      "ciudad": "Valencia",
+      "disponibilidad": {"desde": "2025-03-15", "hasta": "2025-12-01"},
+      "personasPorHabitacion": 3,
+      "precioPorPersona": 90
+    },
+    {
+      "id": 14,
+      "nombre": "Hotel Sierra Nevada",
+      "ciudad": "Granada",
+      "disponibilidad": {"desde": "2025-06-10", "hasta": "2025-09-25"},
+      "personasPorHabitacion": 2,
+      "precioPorPersona": 115
+    },
+    {
+      "id": 15,
+      "nombre": "Hotel Sevilla Center",
+      "ciudad": "Sevilla",
+      "disponibilidad": {"desde": "2025-02-15", "hasta": "2025-11-25"},
+      "personasPorHabitacion": 2,
+      "precioPorPersona": 95
+    },
+    {
+      "id": 16,
+      "nombre": "Hotel Marbella Beach",
+      "ciudad": "Marbella",
+      "disponibilidad": {"desde": "2025-03-20", "hasta": "2025-10-25"},
+      "personasPorHabitacion": 2,
+      "precioPorPersona": 175
+    },
+    {
+      "id": 17,
+      "nombre": "Hotel Málaga Plaza",
+      "ciudad": "Málaga",
+      "disponibilidad": {"desde": "2025-01-25", "hasta": "2025-12-05"},
+      "personasPorHabitacion": 3,
+      "precioPorPersona": 100
+    },
+    {
+      "id": 18,
+      "nombre": "Hotel Málaga Centro",
+      "ciudad": "Málaga",
+      "disponibilidad": {"desde": "2025-02-05", "hasta": "2025-11-10"},
+      "personasPorHabitacion": 1,
+      "precioPorPersona": 80
+    },
+    {
+      "id": 19,
+      "nombre": "Hotel Lisboa Centro",
+      "ciudad": "Lisboa",
+      "disponibilidad": {"desde": "2025-04-05", "hasta": "2025-09-25"},
+      "personasPorHabitacion": 2,
+      "precioPorPersona": 125
+    },
+    {
+      "id": 20,
+      "nombre": "Hotel Andorra Suites",
+      "ciudad": "Andorra",
+      "disponibilidad": {"desde": "2025-01-10", "hasta": "2025-08-25"},
+      "personasPorHabitacion": 4,
+      "precioPorPersona": 110
+    },
+    {
+      "id": 21,
+      "nombre": "Hotel Gótico",
+      "ciudad": "Barcelona",
+      "disponibilidad": {"desde": "2025-03-01", "hasta": "2025-12-15"},
+      "personasPorHabitacion": 3,
+      "precioPorPersona": 88
+    },
+    {
+      "id": 22,
+      "nombre": "Hotel Retiro",
+      "ciudad": "Madrid",
+      "disponibilidad": {"desde": "2025-01-01", "hasta": "2025-12-31"},
+      "personasPorHabitacion": 2,
+      "precioPorPersona": 92
+    },
+    {
+      "id": 23,
+      "nombre": "Hotel Ciudad Vieja",
+      "ciudad": "Valencia",
+      "disponibilidad": {"desde": "2025-04-01", "hasta": "2025-10-30"},
+      "personasPorHabitacion": 4,
+      "precioPorPersona": 75
+    },
+    {
+      "id": 24,
+      "nombre": "Hotel Alhambra",
+      "ciudad": "Granada",
+      "disponibilidad": {"desde": "2025-03-01", "hasta": "2025-11-30"},
+      "personasPorHabitacion": 2,
+      "precioPorPersona": 130
+    },
+    {
+      "id": 25,
+      "nombre": "Hotel Triana",
+      "ciudad": "Sevilla",
+      "disponibilidad": {"desde": "2025-01-20", "hasta": "2025-12-10"},
+      "personasPorHabitacion": 3,
+      "precioPorPersona": 85
+    },
+    {
+      "id": 26,
+      "nombre": "Hotel Banús",
+      "ciudad": "Marbella",
+      "disponibilidad": {"desde": "2025-05-01", "hasta": "2025-09-30"},
+      "personasPorHabitacion": 2,
+      "precioPorPersona": 190
+    },
+    {
+      "id": 27,
+      "nombre": "Hotel Picasso",
+      "ciudad": "Málaga",
+      "disponibilidad": {"desde": "2025-03-01", "hasta": "2025-11-20"},
+      "personasPorHabitacion": 2,
+      "precioPorPersona": 105
+    },
+    {
+      "id": 28,
+      "nombre": "Hotel Tajo",
+      "ciudad": "Toledo",
+      "disponibilidad": {"desde": "2025-02-01", "hasta": "2025-12-31"},
+      "personasPorHabitacion": 3,
+      "precioPorPersona": 65
+    },
+    {
+      "id": 29,
+      "nombre": "Hotel Euskadi",
+      "ciudad": "Bilbao",
+      "disponibilidad": {"desde": "2025-01-15", "hasta": "2025-11-15"},
+      "personasPorHabitacion": 2,
+      "precioPorPersona": 110
+    },
+    {
+      "id": 30,
+      "nombre": "Hotel Teide",
+      "ciudad": "Tenerife",
+      "disponibilidad": {"desde": "2025-06-01", "hasta": "2025-12-31"},
+      "personasPorHabitacion": 4,
+      "precioPorPersona": 98
+    },
+    {
+      "id": 31,
+      "nombre": "Hotel Forum",
+      "ciudad": "Barcelona",
+      "disponibilidad": {"desde": "2025-04-15", "hasta": "2025-10-15"},
+      "personasPorHabitacion": 2,
+      "precioPorPersona": 115
+    },
+    {
+      "id": 32,
+      "nombre": "Hotel Barajas",
+      "ciudad": "Madrid",
+      "disponibilidad": {"desde": "2025-03-01", "hasta": "2025-11-30"},
+      "personasPorHabitacion": 1,
+      "precioPorPersona": 78
+    },
+    {
+      "id": 33,
+      "nombre": "Hotel Malvarrosa",
+      "ciudad": "Valencia",
+      "disponibilidad": {"desde": "2025-05-10", "hasta": "2025-09-10"},
+      "personasPorHabitacion": 3,
+      "precioPorPersona": 95
+    },
+    {
+      "id": 34,
+      "nombre": "Hotel Albayzín",
+      "ciudad": "Granada",
+      "disponibilidad": {"desde": "2025-07-01", "hasta": "2025-08-31"},
+      "personasPorHabitacion": 2,
+      "precioPorPersona": 140
+    },
+    {
+      "id": 35,
+      "nombre": "Hotel Macarena",
+      "ciudad": "Sevilla",
+      "disponibilidad": {"desde": "2025-03-10", "hasta": "2025-11-10"},
+      "personasPorHabitacion": 2,
+      "precioPorPersona": 105
+    },
+    {
+      "id": 36,
+      "nombre": "Hotel Puerto Deportivo",
+      "ciudad": "Marbella",
+      "disponibilidad": {"desde": "2025-04-01", "hasta": "2025-10-31"},
+      "personasPorHabitacion": 2,
+      "precioPorPersona": 160
+    },
+    {
+      "id": 37,
+      "nombre": "Hotel Gibraltar",
+      "ciudad": "Málaga",
+      "disponibilidad": {"desde": "2025-02-15", "hasta": "2025-12-20"},
+      "personasPorHabitacion": 3,
+      "precioPorPersona": 110
+    },
+    {
+      "id": 38,
+      "nombre": "Hotel Monasterio",
+      "ciudad": "Santiago de Compostela",
+      "disponibilidad": {"desde": "2025-04-01", "hasta": "2025-10-30"},
+      "personasPorHabitacion": 2,
+      "precioPorPersona": 80
+    },
+    {
+      "id": 39,
+      "nombre": "Hotel Algarve",
+      "ciudad": "Lisboa",
+      "disponibilidad": {"desde": "2025-05-01", "hasta": "2025-09-30"},
+      "personasPorHabitacion": 2,
+      "precioPorPersona": 135
+    },
+    {
+      "id": 40,
+      "nombre": "Hotel Montaña",
+      "ciudad": "Andorra",
+      "disponibilidad": {"desde": "2025-01-01", "hasta": "2025-12-31"},
+      "personasPorHabitacion": 4,
+      "precioPorPersona": 120
+    },
+    {
+      "id": 41,
+      "nombre": "Hotel Diagonal",
+      "ciudad": "Barcelona",
+      "disponibilidad": {"desde": "2025-01-20", "hasta": "2025-12-10"},
+      "personasPorHabitacion": 3,
+      "precioPorPersona": 110
+    },
+    {
+      "id": 42,
+      "nombre": "Hotel Puerta del Sol",
+      "ciudad": "Madrid",
+      "disponibilidad": {"desde": "2025-02-10", "hasta": "2025-12-25"},
+      "personasPorHabitacion": 2,
+      "precioPorPersona": 105
+    },
+    {
+      "id": 43,
+      "nombre": "Hotel Playa",
+      "ciudad": "Valencia",
+      "disponibilidad": {"desde": "2025-06-01", "hasta": "2025-09-30"},
+      "personasPorHabitacion": 2,
+      "precioPorPersona": 82
+    },
+    {
+      "id": 44,
+      "nombre": "Hotel Zaidín",
+      "ciudad": "Granada",
+      "disponibilidad": {"desde": "2025-04-10", "hasta": "2025-10-20"},
+      "personasPorHabitacion": 3,
+      "precioPorPersona": 100
+    },
+    {
+      "id": 45,
+      "nombre": "Hotel Alcázar",
+      "ciudad": "Sevilla",
+      "disponibilidad": {"desde": "2025-01-01", "hasta": "2025-12-31"},
+      "personasPorHabitacion": 4,
+      "precioPorPersona": 98
+    },
+    {
+      "id": 46,
+      "nombre": "Hotel Don Pepe",
+      "ciudad": "Marbella",
+      "disponibilidad": {"desde": "2025-03-01", "hasta": "2025-11-30"},
+      "personasPorHabitacion": 2,
+      "precioPorPersona": 210
+    },
+    {
+      "id": 47,
+      "nombre": "Hotel Aeropuerto",
+      "ciudad": "Málaga",
+      "disponibilidad": {"desde": "2025-01-01", "hasta": "2025-12-31"},
+      "personasPorHabitacion": 1,
+      "precioPorPersona": 60
+    },
+    {
+      "id": 48,
+      "nombre": "Hotel De la Reina",
+      "ciudad": "Zaragoza",
+      "disponibilidad": {"desde": "2025-03-01", "hasta": "2025-11-20"},
+      "personasPorHabitacion": 2,
+      "precioPorPersona": 72
+    },
+    {
+      "id": 49,
+      "nombre": "Hotel Chiado",
+      "ciudad": "Lisboa",
+      "disponibilidad": {"desde": "2025-04-01", "hasta": "2025-10-31"},
+      "personasPorHabitacion": 3,
+      "precioPorPersona": 118
+    },
+    {
+      "id": 50,
+      "nombre": "Hotel Balneario",
+      "ciudad": "Santander",
+      "disponibilidad": {"desde": "2025-06-01", "hasta": "2025-09-30"},
+      "personasPorHabitacion": 2,
+      "precioPorPersona": 145
+    }
+  ]
+}
